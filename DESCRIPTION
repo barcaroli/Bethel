@@ -1,0 +1,10 @@
+Package: bethel
+Type: Package
+Title: Multivariate allocation
+Version: 0.1.0
+Author: Giulio Barcaroli
+Maintainer: Giulio Barcaroli <gbarcaroli@gmail.com>
+Description: Multivariate allocation of units in stratified sampling
+License: GPL
+Encoding: UTF-8
+LazyData: true

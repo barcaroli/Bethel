@@ -1,0 +1,4 @@
+useDynLib(bethel,.registration = TRUE)
+
+## and the exported functions
+export(bethel1)
